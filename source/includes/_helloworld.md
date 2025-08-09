@@ -27,7 +27,7 @@ product:
         sports events — making it accessible through APIs and dashboards for
         internal and future external use.
       productSeries: SmartCity Living Data Products
-      visibility: internal
+      visibility: organisation
       status: production
       productVersion: 0.1.0
       versionNotes: >-
